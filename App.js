@@ -35,56 +35,56 @@ const App = {
         {
             title:'An thần',
             singer:'Low-G & Thắng',
-            imgUrl:'./images/An thần - Low - G & Thắng.jpg',
+            imgUrl:'./Images/An thần - Low - G & Thắng.jpg',
             audioSrc:'./Audio/An Thần (ft. Thắng) - Low G - Rap Nhà Làm.mp3'
         },
 
         {
             title:'Cưới em',
             singer:'Bray',
-            imgUrl:'./images/Cưới em - Bray.jpg',
+            imgUrl:'./Images/Cưới em - Bray.jpg',
             audioSrc:'./Audio/B RAY - CƯỚI EM [ OFFICIAL MV ].mp3'
         },
         {
             title:'Càng cua',
             singer:'Low-G',
-            imgUrl:'./images/Càng cua - Low-G.jpg',
+            imgUrl:'./Images/Càng cua - Low-G.jpg',
             audioSrc:'./Audio/Càng Cua - Low G x Last Fire Crew - Nhà Hóa Học Đống Đa.mp3'
         },
         {
             title:'Gieo quẻ',
             singer:'Hoàng Thùy Linh',
-            imgUrl:'./images/Gieo Quẻ - Hoàng Thùy Linh.jpg',
+            imgUrl:'./Images/Gieo Quẻ - Hoàng Thùy Linh.jpg',
             audioSrc:'./Audio/Hoàng Thuỳ Linh & ĐEN - Gieo Quẻ (Casting Coins) - Official Music Video.mp3'
         },
         {
             title:'Enemy',
             singer:'Imagine Dragons & J.I.D',
-            imgUrl:'./images/Imagine Dragons x J.I.D - Enemy.jpg',
+            imgUrl:'./Images/Imagine Dragons x J.I.D - Enemy.jpg',
             audioSrc:'./Audio/Imagine Dragons x J.I.D - Enemy (from the series Arcane League of Legends).mp3'
         },
         {
             title:'Wrong',
             singer:'Luh Kel',
-            imgUrl:'./images/Luh Kel - Wrong.jpg',
+            imgUrl:'./Images/Luh Kel - Wrong.jpg',
             audioSrc:'./Audio/Luh Kel - Wrong (Official Music Video).mp3'
         },
         {
             title:'Dại Kher',
             singer:'Sony Tran & Tage & Blacka',
-            imgUrl:'./images/Dại Kher - Sony Tran x Tage x Blacka.jpg',
+            imgUrl:'./Images/Dại Kher - Sony Tran x Tage x Blacka.jpg',
             audioSrc:'./Audio/Sony Tran - Dại Kher ft. Tage & Blacka - Official Animation Video.mp3'
         },
         {
             title:'Freaky Squad',
             singer:'SpaceSpeakers',
-            imgUrl:'./images/SpaceSpeakers - Freaky Squad.jpg',
+            imgUrl:'./Images/SpaceSpeakers - Freaky Squad.jpg',
             audioSrc:'./Audio/SpaceSpeakers - Freaky Squad (Official Music Video).mp3'
         },
         {
             title:'Gặp may',
             singer:'Wren Even',
-            imgUrl:'./images/Gặp may - Wren Even.jpg',
+            imgUrl:'./Images/Gặp may - Wren Even.jpg',
             audioSrc:'./Audio/WREN EVANS - GẶP MAY (OFFICIAL MUSIC VIDEO).mp3'
         }
     ],
